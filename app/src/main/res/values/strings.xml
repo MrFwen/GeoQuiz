@@ -11,4 +11,9 @@
     <string name="question_3">问题3</string>
     <string name="question_4">问题4</string>
     <string name="question_5">问题5</string>
+    //第二个activity里面的字符串资源
+    <string name="warning_text">你确定要这么做?</string>
+    <string name="show_answer_button">查看答案</string>
+    <string name="cheat_button">检查</string>
+    <string name="judgment_toast">Cheating is wrong .</string>
 </resources>
