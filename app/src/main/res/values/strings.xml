@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="correct_toast">正确</string>
+    <string name="incorrect_toast">不正确</string>
+    <string name="next_button">Next</string>
+    //新增加问题字符串
+    <string name="question_1">问题1</string>
+    <string name="question_2">问题2</string>
+    <string name="question_3">问题3</string>
+    <string name="question_4">问题4</string>
+    <string name="question_5">问题5</string>
+</resources>
